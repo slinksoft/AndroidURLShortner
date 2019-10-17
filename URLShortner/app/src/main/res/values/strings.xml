@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">URL Shortner</string>
+    <string name="sub_title"><u><b>Enter URL</b></u></string>
+    <string name="result_title"><u><b>Result</b></u></string>
+</resources>
